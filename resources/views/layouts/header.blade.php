@@ -65,10 +65,10 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-4">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="service.html" class="nav-item nav-link">Services</a>
-                    <a href="guard.html" class="nav-item nav-link">Guards</a>
+                    <a href="home" class="nav-item nav-link active">Home</a>
+                    <a href="about" class="nav-item nav-link">About</a>
+                    <a href="service" class="nav-item nav-link">Services</a>
+                    <a href="guard" class="nav-item nav-link">Guards</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu text-capitalize">

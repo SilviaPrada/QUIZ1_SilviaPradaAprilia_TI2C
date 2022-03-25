@@ -20,3 +20,15 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('home');
 });
+
+Route::get('/guard', function () {
+    return view('guard');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/service', function () {
+    return view('service');
+});
